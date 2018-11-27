@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeakFolio.Identity", "Spea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeakFolio.MVC", "SpeakFolio.MVC\SpeakFolio.MVC.csproj", "{CC9A3178-7DCF-4603-BDCE-7ADBBA1D67CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeakFolio.Core", "SpeakFolio.Core\SpeakFolio.Core.csproj", "{51B89940-8FC1-4510-ABB7-66CF327B3011}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CC9A3178-7DCF-4603-BDCE-7ADBBA1D67CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC9A3178-7DCF-4603-BDCE-7ADBBA1D67CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC9A3178-7DCF-4603-BDCE-7ADBBA1D67CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51B89940-8FC1-4510-ABB7-66CF327B3011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B89940-8FC1-4510-ABB7-66CF327B3011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B89940-8FC1-4510-ABB7-66CF327B3011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B89940-8FC1-4510-ABB7-66CF327B3011}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
